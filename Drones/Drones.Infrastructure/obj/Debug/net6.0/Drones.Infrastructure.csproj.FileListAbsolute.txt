@@ -1,0 +1,15 @@
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\bin\Debug\net6.0\Drones.Infrastructure.deps.json
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\bin\Debug\net6.0\Drones.Infrastructure.dll
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\bin\Debug\net6.0\Drones.Infrastructure.pdb
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\bin\Debug\net6.0\Drones.Domain.dll
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\bin\Debug\net6.0\Drones.Domain.pdb
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\Drones.Infrastructure.csproj.AssemblyReference.cache
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\Drones.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\Drones.Infrastructure.AssemblyInfoInputs.cache
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\Drones.Infrastructure.AssemblyInfo.cs
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\Drones.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\Drones.Infrastructure.csproj.CopyComplete
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\Drones.Infrastructure.dll
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\refint\Drones.Infrastructure.dll
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\Drones.Infrastructure.pdb
+D:\Work\Musala Soft\Drones\Drones\Drones.Infrastructure\obj\Debug\net6.0\ref\Drones.Infrastructure.dll

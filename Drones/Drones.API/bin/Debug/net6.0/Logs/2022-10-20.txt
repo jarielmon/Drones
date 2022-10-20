@@ -1,0 +1,117 @@
+2022-10-20 00:33:10,598 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelHostedService is starting. 
+ 
+2022-10-20 00:36:34,773 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is starting. 
+ 
+2022-10-20 00:57:07,090 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is starting. 
+ 
+2022-10-20 00:58:17,792 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is starting. 
+ 
+2022-10-20 01:00:20,297 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is starting. 
+ 
+2022-10-20 01:01:19,875 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is starting. 
+ 
+2022-10-20 01:06:20,203 [.NET ThreadPool Worker] INFO  App  
+ The drone 00001 has the battery level at 12% 
+ 
+2022-10-20 01:06:20,204 [.NET ThreadPool Worker] INFO  App  
+ The drone 00002 has the battery level at 20% 
+ 
+2022-10-20 01:06:20,205 [.NET ThreadPool Worker] INFO  App  
+ The drone 00003 has the battery level at 40% 
+ 
+2022-10-20 01:06:20,210 [.NET ThreadPool Worker] INFO  App  
+ The drone 00004 has the battery level at 90% 
+ 
+2022-10-20 01:06:20,211 [.NET ThreadPool Worker] INFO  App  
+ The drone 00005 has the battery level at 64% 
+ 
+2022-10-20 01:06:20,211 [.NET ThreadPool Worker] INFO  App  
+ The drone 00006 has the battery level at 25% 
+ 
+2022-10-20 01:06:20,212 [.NET ThreadPool Worker] INFO  App  
+ The drone 00007 has the battery level at 70% 
+ 
+2022-10-20 01:06:20,213 [.NET ThreadPool Worker] INFO  App  
+ The drone 00008 has the battery level at 55% 
+ 
+2022-10-20 01:06:20,218 [.NET ThreadPool Worker] INFO  App  
+ The drone 00009 has the battery level at 78% 
+ 
+2022-10-20 01:06:20,218 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is finished doing its work in starting. 
+ 
+2022-10-20 01:06:20,219 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is starting. 
+ 
+2022-10-20 01:11:20,275 [.NET ThreadPool Worker] INFO  App  
+ The drone 00001 has the battery level at 12% 
+ 
+2022-10-20 01:11:20,276 [.NET ThreadPool Worker] INFO  App  
+ The drone 00002 has the battery level at 20% 
+ 
+2022-10-20 01:11:20,277 [.NET ThreadPool Worker] INFO  App  
+ The drone 00003 has the battery level at 40% 
+ 
+2022-10-20 01:11:20,284 [.NET ThreadPool Worker] INFO  App  
+ The drone 00004 has the battery level at 90% 
+ 
+2022-10-20 01:11:20,284 [.NET ThreadPool Worker] INFO  App  
+ The drone 00005 has the battery level at 64% 
+ 
+2022-10-20 01:11:20,284 [.NET ThreadPool Worker] INFO  App  
+ The drone 00006 has the battery level at 25% 
+ 
+2022-10-20 01:11:20,285 [.NET ThreadPool Worker] INFO  App  
+ The drone 00007 has the battery level at 70% 
+ 
+2022-10-20 01:11:20,285 [.NET ThreadPool Worker] INFO  App  
+ The drone 00008 has the battery level at 55% 
+ 
+2022-10-20 01:11:20,286 [.NET ThreadPool Worker] INFO  App  
+ The drone 00009 has the battery level at 78% 
+ 
+2022-10-20 01:11:20,287 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is finished doing its work in starting. 
+ 
+2022-10-20 01:11:20,287 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is starting. 
+ 
+2022-10-20 01:16:20,363 [.NET ThreadPool Worker] INFO  App  
+ The drone 00001 has the battery level at 12% 
+ 
+2022-10-20 01:16:20,363 [.NET ThreadPool Worker] INFO  App  
+ The drone 00002 has the battery level at 20% 
+ 
+2022-10-20 01:16:20,364 [.NET ThreadPool Worker] INFO  App  
+ The drone 00003 has the battery level at 40% 
+ 
+2022-10-20 01:16:20,371 [.NET ThreadPool Worker] INFO  App  
+ The drone 00004 has the battery level at 90% 
+ 
+2022-10-20 01:16:20,378 [.NET ThreadPool Worker] INFO  App  
+ The drone 00005 has the battery level at 64% 
+ 
+2022-10-20 01:16:20,380 [.NET ThreadPool Worker] INFO  App  
+ The drone 00006 has the battery level at 25% 
+ 
+2022-10-20 01:16:20,380 [.NET ThreadPool Worker] INFO  App  
+ The drone 00007 has the battery level at 70% 
+ 
+2022-10-20 01:16:20,381 [.NET ThreadPool Worker] INFO  App  
+ The drone 00008 has the battery level at 55% 
+ 
+2022-10-20 01:16:20,386 [.NET ThreadPool Worker] INFO  App  
+ The drone 00009 has the battery level at 78% 
+ 
+2022-10-20 01:16:20,387 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is finished doing its work in starting. 
+ 
+2022-10-20 01:16:20,387 [.NET ThreadPool Worker] INFO  App  
+ LogBatteryLevelService is starting. 
+ 

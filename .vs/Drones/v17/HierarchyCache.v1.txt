@@ -1,0 +1,258 @@
+﻿++Solution 'Drones' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:Drones.sln
+++Drones.API
+i:{00000000-0000-0000-0000-000000000000}:Drones.API
+++Connected Services 
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:>280
+++Dependencies
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:>279
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:>187
+i:{48d1fa85-535c-453b-988c-491188ba5399}:>212
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:>188
+++Analyzers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:analyzers
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:analyzers
+i:{48d1fa85-535c-453b-988c-491188ba5399}:analyzers
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:analyzers
+++Frameworks
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:frameworks
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:frameworks
+i:{48d1fa85-535c-453b-988c-491188ba5399}:frameworks
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:frameworks
+++Packages
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:packages
+i:{48d1fa85-535c-453b-988c-491188ba5399}:packages
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:packages
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:packages
+++AutoMapper (12.0.0)
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:>342
+i:{48d1fa85-535c-453b-988c-491188ba5399}:>339
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:>341
+++FluentValidation.AspNetCore (11.2.2)
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:>933
+i:{48d1fa85-535c-453b-988c-491188ba5399}:>931
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:>932
+++Swashbuckle.AspNetCore (6.2.3)
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:>307
+++Projects
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:projects
+i:{48d1fa85-535c-453b-988c-491188ba5399}:projects
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:projects
+++Properties
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\properties\
+++Controllers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\controllers\
+++DroneController.cs
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\controllers\dronecontroller.cs
+++MedicationController.cs
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\controllers\medicationcontroller.cs
+++appsettings.json
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\appsettings.json
+++Program.cs
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\program.cs
+++No service dependencies discovered
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:>281
+++Microsoft.AspNetCore.Analyzers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{48d1fa85-535c-453b-988c-491188ba5399}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{48d1fa85-535c-453b-988c-491188ba5399}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{48d1fa85-535c-453b-988c-491188ba5399}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{48d1fa85-535c-453b-988c-491188ba5399}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\users\jorge ariel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{48d1fa85-535c-453b-988c-491188ba5399}:c:\users\jorge ariel\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{48d1fa85-535c-453b-988c-491188ba5399}:c:\users\jorge ariel\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:c:\users\jorge ariel\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{48d1fa85-535c-453b-988c-491188ba5399}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\microsoft.netcore.app
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\microsoft.netcore.app
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\microsoft.netcore.app
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:d:\work\musala soft\drones\drones\drones.application\microsoft.netcore.app
+++Drones.Application
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.application\drones.application.csproj
+i:{00000000-0000-0000-0000-000000000000}:Drones.Application
+++Drones.Domain
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.domain\drones.domain.csproj
+i:{00000000-0000-0000-0000-000000000000}:Drones.Domain
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.domain\drones.domain.csproj
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:d:\work\musala soft\drones\drones\drones.domain\bin\debug\net6.0\drones.domain.dll
+++Drones.Infrastructure
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.infrastructure\drones.infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:Drones.Infrastructure
+++launchSettings.json
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\properties\launchsettings.json
+++appsettings.Development.json
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\appsettings.development.json
+++Common
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\common\
+++Response.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\common\response.cs
+++DTOs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\dtos\
+++DroneDto.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\dtos\dronedto.cs
+++MedicationDto.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\dtos\medicationdto.cs
+++Entities
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\entities\
+++BaseEntity.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\entities\baseentity.cs
+++Drone.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\entities\drone.cs
+++Medication.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\entities\medication.cs
+++Model.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\entities\model.cs
+++State.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\entities\state.cs
+++Exeptions
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\exeptions\
+++BaseException.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\exeptions\baseexception.cs
+++ConflictException.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\exeptions\conflictexception.cs
+++NotFoundException.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\exeptions\notfoundexception.cs
+++Repositories
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\repositories\
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\repositories\
+++IDroneRepository.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\repositories\idronerepository.cs
+++IMedicationRepository.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\repositories\imedicationrepository.cs
+++IRepository.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\repositories\irepository.cs
+++Services
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\services\
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:d:\work\musala soft\drones\drones\drones.application\services\
+++IDroneService.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\services\idroneservice.cs
+++IUnitOfWork.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\iunitofwork.cs
+++Database
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\database\
+++ApiContext.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\database\apicontext.cs
+++DroneEntityTypeConfiguration.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\database\droneentitytypeconfiguration.cs
+++MedicationEntityTypeConfiguration.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\database\medicationentitytypeconfiguration.cs
+++Extensions
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\extensions\
+++UnitOfWorkExtension.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\extensions\unitofworkextension.cs
+++Helpers
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\helpers\
+++RepositoryHelper.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\helpers\repositoryhelper.cs
+++Mapper
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\mapper\
+++MappingProfile.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\mapper\mappingprofile.cs
+++DroneRepository.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\repositories\dronerepository.cs
+++MedicationRepository.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\repositories\medicationrepository.cs
+++Repository.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\repositories\repository.cs
+++Validators
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\validators\
+++DroneValidator.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\validators\dronevalidator.cs
+++MedicationValidator.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\validators\medicationvalidator.cs
+++UnitOfWork.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\unitofwork.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.0)
+i:{48d1fa85-535c-453b-988c-491188ba5399}:>528
+++Microsoft.EntityFrameworkCore.InMemory (6.0.10)
+i:{48d1fa85-535c-453b-988c-491188ba5399}:>357
+++DroneService.cs
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:d:\work\musala soft\drones\drones\drones.application\services\droneservice.cs
+++MedicationService.cs
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:d:\work\musala soft\drones\drones\drones.application\services\medicationservice.cs
+++IDroneService - Copy.cs
+++IMedicationService.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\services\imedicationservice.cs
+++DroneDBInitializer.cs
+++Configuration.cs
+++DataSeeding.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\database\dataseeding.cs
+++Drone - Copy.cs
+++DroneMedication.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\entities\dronemedication.cs
+++DroneEntityTypeConfiguration - Copy.cs
+++DroneMedicationEntityTypeConfiguration.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\database\dronemedicationentitytypeconfiguration.cs
+++IMedicationRepository - Copy.cs
+++IDroneMedicationRepository.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\repositories\idronemedicationrepository.cs
+++DroneRepository - Copy.cs
+++DroneMedicationRepository.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\repositories\dronemedicationrepository.cs
+++DroneService - Copy.cs
+++DroneController - Copy.cs
+++DroneMedicationController.cs
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\controllers\dronemedicationcontroller.cs
+++DroneMedicationService.cs
+i:{e607dac8-31f8-44c8-a6e7-26a218d1716b}:d:\work\musala soft\drones\drones\drones.application\services\dronemedicationservice.cs
+++DroneDto - Copy.cs
+++DroneMedicationDto.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\dtos\dronemedicationdto.cs
+++IDroneMedicationService.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\services\idronemedicationservice.cs
+++DroneMedicationDto - Copy.cs
+++DroneMedicationDummaryDto.cs
+++DroneMedicationSummaryDto.cs
+++NewFolder
+++Resolvers
+++Drone.FieldResolver.cs
+++DroneFieldResolver.cs
+++DroneFieldResolver - Copy.cs
+++MedicationFieldResolver.cs
+++HostedServices
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\hostedservices\
+++LogBatteryLevelHostedService.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\hostedservices\logbatterylevelhostedservice.cs
+++Microsoft.Extensions.Logging.Log4Net.AspNetCore (6.1.0)
+i:{48d1fa85-535c-453b-988c-491188ba5399}:>2101
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:>2103
+++ILoggerManager.cs
+i:{7cf9e52e-7e1a-4b05-a9d2-03a5b94a976f}:d:\work\musala soft\drones\drones\drones.domain\repositories\iloggermanager.cs
+++LoggerManager.cs
+i:{48d1fa85-535c-453b-988c-491188ba5399}:d:\work\musala soft\drones\drones\drones.infrastructure\repositories\loggermanager.cs
+++.editorconfig
+++log4net.config
+i:{c7001a69-17d1-4425-9478-1d6501ae5821}:d:\work\musala soft\drones\drones\drones.api\log4net.config
