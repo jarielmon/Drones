@@ -32,14 +32,16 @@ The application has a set of data previously inserted for testing.
 
 2. Loading a drone with medication items (http://localhost:5263/api/DroneMedication)
 -	e.g Request JSON (You must specify the id of the drone, the id of the medication and the quantity of medication)
-		{
+
+		 {
 			"droneId": 7,		(Previously added drone id)
 			"medicationId": 1,		(Previously added medication id)
 			"count": 3		(Amount of medication, e.g. three boxes of Acetaminophen, each box has a weight of 20g, the capacity it occupies in the drone will be 3*20)
-	 	}
+	 	 }
 
 3. Checking loaded medication items for a given drone (http://localhost:5263/api/DroneMedication/9/CheckLoadedMedicationItems where 9 is drone id)
 -	e.g Response JSON
+
 		 [
 			 {
 				 "droneId": 9,		(Drone id)
@@ -50,6 +52,7 @@ The application has a set of data previously inserted for testing.
 
 4. Checking available drones for loading (http://localhost:5263/api/Drone/CheckAvailableForLoading)
 -	e.g.Response JSON
+
 		 [
 			  {
 				  "id": 4,
