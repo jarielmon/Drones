@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Drones
 API implementation with .NET Core and DDD.
 
@@ -103,3 +104,6 @@ The solution design focuses on a basic Domain Driven Design techniques and imple
 -	I have created a background service that runs every 5 minutes and writes the battery status of the drones to a log file located Drones.API\bin\Debug\net6.0\Log
 
 ** There are other generic endpoints in the API that were created for complementary use.
+=======
+# Drones
+>>>>>>> a502cdf021a445d0c0b24f15194e43390d1b666e
